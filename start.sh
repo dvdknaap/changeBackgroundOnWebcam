@@ -7,6 +7,6 @@ sleep 3
 
 python3 fakecam/fake.py &
 
-sleep 3
+#sleep 3
 
-ffplay /dev/video20
+#ffplay /dev/video20
